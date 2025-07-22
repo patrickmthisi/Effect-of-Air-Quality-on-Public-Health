@@ -1,4 +1,7 @@
 # Effect-of-Air-Quality-on-Public-Health
+- Author: Patrick Mthisi
+- Contact details: patrickmthisi@hotmail.com
+
 ## Project aims and description:
 In this short study, we aim to investigate the impact of air quality on public health using Google's TabNet classifier on a highly imbalanced multi-class dataset. The following concepts can be gleaned from this study:
  - Performing Bayesian hyperparameter optimisation using Optuna to get an optimal set of hyperparameters for the weighted TabNet model.
