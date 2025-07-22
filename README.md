@@ -3,6 +3,7 @@
 In this short study, we aim to investigate the impact of air quality on public health using Google's TabNet classifier on a highly imbalanced multi-class dataset. The following concepts can be gleaned from this study:
  - Performing Bayesian hyperparameter optimisation using Optuna to get an optimal set of hyperparameters for the weighted TabNet model.
  - Constructing a TabNet ensemble classifier.
+
 The dataset for the project was sourced from: https://www.kaggle.com/datasets/rabieelkharoua/air-quality-and-health-impact-dataset.
 
 ## Conclusion and recommendation:
